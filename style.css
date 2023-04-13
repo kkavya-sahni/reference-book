@@ -1,0 +1,29 @@
+table,
+th,
+td {
+  border: 1px solid #bbdae1;
+}
+
+a:link {
+  color: rgb(255, 255, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(255, 0, 43);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(253, 6, 225);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
