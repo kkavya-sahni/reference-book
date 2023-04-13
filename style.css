@@ -1,25 +1,25 @@
 body {
-  color: #BBDAE1; 
-  background-color:#303C5A;
+  color: #303c5a;
+  background-color: #bbdae1;
 }
 
-h1{
+h1 {
   text-align: center;
 }
 
 table {
   width: 400px;
-    text-align: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-table,
-th,
 td {
-  border: 1px solid #bbdae1;
+  border: thin solid #303c5a;
 }
 
 a:link {
-  color: rgb(255, 255, 255);
+  color: #303c5a;
   background-color: transparent;
   text-decoration: none;
 }
